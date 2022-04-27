@@ -1,0 +1,5 @@
+build
+node_modules
+.idea/*
+artifacts
+.DS_Store
